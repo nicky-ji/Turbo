@@ -19,6 +19,6 @@ def run():
     for server in server_list:
         with open(serverrun,"a+") as ff:
             ff.write('\n'+server)
-        os.system("python my1.py")
+        os.system("python process.py")
        
 run()
