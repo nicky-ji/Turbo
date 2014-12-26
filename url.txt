@@ -1,0 +1,6 @@
+http://121.42.51.106/turbo/jpg/flower.jpg 10
+http://121.42.51.106/turbo/webp/5.webp 10
+http://121.42.51.106/turbo/png/7.png 10
+http://121.42.51.106/turbo/text.html 10
+http://121.42.51.106/turbo/jquery-ui/jquery-ui.min.js 10
+http://121.42.51.106/turbo/css/jquery-ui.structure.min.css 10

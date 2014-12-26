@@ -1,0 +1,11 @@
+proxy=http://turbo2sdk-china-lvs-zhaowei.oupengcloud.net ./mini_proxy
+proxy=http://uf03-13.opera-mini.net ./mini_proxy
+proxy=http://uf03-14.opera-mini.net ./mini_proxy
+proxy=http://uf04-15.opera-mini.net ./mini_proxy
+proxy=http://uf04-16.opera-mini.net ./mini_proxy
+proxy=http://uf05-02.opera-mini.net ./mini_proxy
+proxy=http://uf05-03.opera-mini.net ./mini_proxy
+proxy=http://uf05-10.opera-mini.net ./mini_proxy
+proxy=http://turbo2sdk-china-lvs-yztel.oupengcloud.net ./mini_proxy
+proxy=http://ue03-13.opera-mini.net ./mini_proxy
+proxy=http://ue03-14.opera-mini.net ./mini_proxy
